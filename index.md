@@ -6,3 +6,6 @@ Being a good team player I always give my best to make my team success. I have d
 
 Specialities: Python, Java , HTML, Cascading Style Sheets, JavaScript, Angular JS, TypeScript, Cloud Computing, Cloud DevOps, Data Science, Postgresql, Computer Networks.
 
+Hobbies:
+
+Playing cricket, carroms
